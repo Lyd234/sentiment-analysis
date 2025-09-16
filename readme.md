@@ -12,5 +12,5 @@ Features
 
  Project Status & Intended Use
 
-This is a personal data exploration project created for learning and insight. While you're welcome to view the structure and ideas, it's not intended for public reuse, redistribution, or commercial application. 
+This is a personal data exploration project created for learning and insight.
  -->
